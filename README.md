@@ -12,7 +12,7 @@
  
 #End Results of the ETL process: 
 
- ![image]https://github.com/icheung487/Movies_ETL/blob/main/Images%20D4/Ratings_count.png
- ![image]https://github.com/icheung487/Movies_ETL/blob/main/Images%20D4/Movies_count.png
+ ![image](https://github.com/icheung487/Movies_ETL/blob/main/Images%20D4/Ratings_count.png)
+ ![image](https://github.com/icheung487/Movies_ETL/blob/main/Images%20D4/Movies_count.png)
 
  
